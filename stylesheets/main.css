@@ -64,6 +64,8 @@ p, a, button, input {
   color: white;
   transition: all .4s;
   position: relative;
+
+  opacity: 0.2;
   z-index: 10;
   animation-name: intro-content;
   animation-duration: 1.4s;
